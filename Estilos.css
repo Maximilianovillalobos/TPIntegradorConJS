@@ -1,0 +1,96 @@
+.color-gris{
+    background-color: #333a40;
+}
+.navbar{
+    height: 100px;
+}
+.navbar img{
+    width: 25%;
+    margin-left: 15%;
+}
+.nav-item{
+    font-size: 15px;
+}
+.navbar-nav{
+    margin-right: 10%;
+}
+.card-img-overlay{
+    margin-top: 200px;
+    margin-right: 100px;
+}
+.btn-quiero-orador{
+    margin: 8px;
+}
+.btn-comprar{
+ background-color: rgb(41, 167, 68);
+ border-color:  rgb(41, 167, 68);
+ color: white;
+ margin: 8px;
+}
+.carousel-inner{
+    height: 640px !important;
+}
+.carousel-inner img{
+    position: relative;
+    top: -160px;
+    background-color: rgba(0,0,0,0.8);
+    filter:brightness(0.4);
+}
+.card-group{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.orador-text{
+    font-size: 13px;
+}
+.conoce-oradores{
+    font-size: 13px !important;
+}
+.subrayadoPuntos{
+    text-decoration:underline;
+    text-decoration-style: dotted;
+}
+.btn-enviar{
+    background-color: rgb(150, 201, 62);
+    color: white;
+    margin-top: 15px;
+    width: 100%;
+    font-size: 20px;
+}
+footer{
+    background: linear-gradient(to right,rgb(29, 55, 70), rgb(29, 82, 113));
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 55px;
+}
+.footer-text{
+    padding-top: 10px !important;
+}
+.centrar-modulo{
+    display: flex;
+    justify-content: center;
+}
+.margen-tickets-left{
+    margin-left: 10px;
+}
+.margen-tickets-right{
+    margin-right: 10px;
+}
+.form-Tickets{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn-tickets{
+    background-color: #97c93e;
+    color: white;
+    width: 98%;
+  }
+.margin-bottom-10{
+    margin-bottom: 10px;
+}
